@@ -1,0 +1,15 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  main {
+    flex-grow: 1;
+  }
+
+.imagenBannerIndex {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+  }
