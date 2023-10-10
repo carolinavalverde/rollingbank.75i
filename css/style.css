@@ -13,3 +13,12 @@ body {
     height: 450px;
     object-fit: cover;
   }
+
+  .linkFooter {
+    color: rgb(108, 108, 108);
+    text-decoration: none;
+  }
+  .linkFooter:hover {
+    color: #f7f7fa;
+  }
+ 
